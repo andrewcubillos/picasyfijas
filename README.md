@@ -8,7 +8,9 @@ https://picasyfijasheroku.herokuapp.com/picasfamas
 ## Pruebas
 
 ![alt text](https://raw.githubusercontent.com/andrewcubillos/picasyfijas/master/img/capt1.jpg)
+
 ![alt text](https://raw.githubusercontent.com/andrewcubillos/picasyfijas/master/img/capt2.jpg)
+
 ![alt text](https://raw.githubusercontent.com/andrewcubillos/picasyfijas/master/img/capt3.jpg)
 
 
