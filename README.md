@@ -2,4 +2,4 @@
 ## Picas y Famas
 
 ## HEROKU:
-https://picasyfijasheroku.herokuapp.com/hello
+https://picasyfijasheroku.herokuapp.com/picasfamas
