@@ -45,13 +45,13 @@ public class App {
         app.run(args);
     }
 
-    @GetMapping("/hello")
+     @GetMapping("/picasfamas")
     public String hello(@RequestParam(value = "name", defaultValue = "0000") String name) {
         
         String output =  "<DOCTYPE html>\r\n"
                 +"<html>\r\n"
                 +"<body>\r\n"
-                +"<form action=\"/hello\"> \r\n"
+                +"<form action=\"/picasfamas\"> \r\n"
                 +"<label for=\"fname\">Número:</label><br> \r\n"
                 +"<input type=\"text\" id=\"name\" name=\"name\" ><br> \r\n"
                 +"<input type=\"submit\" value=\"Submit\"> \r\n"
